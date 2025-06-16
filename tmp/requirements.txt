@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-databases
-aiosqlite
-sqlalchemy
-pytest
-httpx
